@@ -7,7 +7,6 @@ Individual Proof-of-Stake Mainnet Validator | https://dune.com/outputlayer | Pre
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Outputlayer&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Outputlayer&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Outputlayer&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
