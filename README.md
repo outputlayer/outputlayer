@@ -1,5 +1,5 @@
 # 💫 About Me:
-Individual Proof-of-Stake Mainnet Validator | https://dune.com/outputlayer | Prev Username: @RideYourChart<br>
+Passionate blockchain data analyst & visualization specialist exploring emerging projects | https://dune.com/outputlayer | Prev Username: @RideYourChart<br>
 
 
 # 🌐 Socials:
